@@ -1,10 +1,10 @@
-#sanfranciscoartdept
+# sanfranciscoartdept
 
-##projects
-###project1
+## projects
+### project1
 -description
 -links
 
-###project2
+### project2
 -description
 -links
